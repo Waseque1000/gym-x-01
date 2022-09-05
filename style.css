@@ -100,3 +100,51 @@
   height:230px;
 
 }
+.vhairevhai-1{
+  display: flex;
+  justify-content: space-evenly;
+}
+ 
+
+.img-img-fluid{
+  height:100%;
+  width:100%;
+}  
+
+ .box10 {
+  width:280px;
+  height: 350px;
+  text-align: center;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  padding: 25px;
+  box-shadow: 9px 8px 8px 8px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: .8ms;
+
+}
+ .box11 {
+  width:280px;
+  height: 400px;
+  text-align: center;
+  margin: 0 auto;
+  /* border: 1px solid gray; */
+  padding: 25px;
+  box-shadow: 9px 8px 8px 8px gray;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: .8ms;
+
+}
+
+ 
+.icon-1 img {
+  width: 235px;
+  height: 270px;
+
+}
+
+.oagooo{
+  justify-content: space-evenly;
+}
